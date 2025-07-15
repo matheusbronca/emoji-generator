@@ -1,6 +1,6 @@
 import { CanActivate, ExecutionContext, Injectable } from '@nestjs/common';
 import { Observable } from 'rxjs';
-import { Response, type Request } from 'express';
+import { type Request } from 'express';
 import { LoggerService } from '../../logger.service';
 
 @Injectable()
