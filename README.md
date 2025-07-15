@@ -20,6 +20,7 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
 ## Instructions
 To use it, make a request to https://emoji-generator-production-7bd0.up.railway.app/, make sure to add a `x-api-key="SECRET_SAUCE`. This is a POC project, so there isn't any reason to prevent some kind of abuse or security issues.
 
